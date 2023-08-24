@@ -1,0 +1,46 @@
+body {
+    background: #CDFFFA;
+    background: -moz-radial-gradient(center, #CDFFFA 0%, #FBFFD2 100%);
+    background: -webkit-radial-gradient(center, #CDFFFA 0%, #FBFFD2 100%);
+    background: radial-gradient(ellipse at center, #CDFFFA 0%, #FBFFD2 100%);
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #5B4526;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    margin: 0;
+}
+img {border: 6px solid rgba(161,97,164,0.96);
+
+}
+
+
+
+div {
+    text-align: center;
+}
+
+h2,h3 {
+ text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #1C6EA4;
+}
+
+.contenedor{
+    background-color: aliceblue;
+    height: 180px;
+    padding: 10px;
+    
+}
+.titulo-contenedor {
+    color: #1C6EA4;
+    text-transform: uppercase;
+font-size: 25px;
+}
